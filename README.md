@@ -1,5 +1,6 @@
 # Airline-Delays
 My understanding of the dataset is the airline delays for December 2019 and 2020 for airline per carrier per US city. The data considers carrier, carrier name, airports, arrivals, and delays of several categories. Such as flight delays due to the National Aviation System, i.e. heavy air traffic, flight delays due to no crew, and delays in flights because a previous flight for the same plane was late. 
+
 Open Source: Kaggle.com
 Data Source
 https://www.kaggle.com/datasets/eugeniyosetrov/airline-delays/data
