@@ -14,3 +14,4 @@ The geojson source to create the choropleth map, hoods3155lite.geojson
 Finally, time-series data analysis was conducted using data from Data.gov.  
 Source, Original Data\MVA_Vehicle_Sales_Counts_by_Month_for_Calendar_Year_2002_through_December_2023.csv
 The data set I chose is dealing with customer connection and the number of new and used vehicle sales by month, which occurred in the state of Maryland. I focused on total new vehicle sales each month from years 2002 to 2023.
+Tableau link https://public.tableau.com/app/profile/rich.bradley/viz/FlightDelayProject_17130192454700/AirlineFlightDelays?publish=yes
